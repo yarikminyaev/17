@@ -1,0 +1,37 @@
+.back{
+			background-color: #ccd3e0;
+ 			height: 1000px;
+ 			width: 2000px;
+ 			padding-top: 100px;
+		}
+		.df{
+			display: flex;
+			margin-top: 
+		}
+		body{
+			font-family: arial;
+		}
+		.h1{
+			margin-top: -100px;
+			margin-left: 320px;
+			font-size: 50px;
+			
+		}
+		.pad{
+			background-color: white;
+			width: 600px;
+		}
+		.mt{
+			margin-top: 50px;
+			margin-left: 20px;
+		}
+		.mt2{
+			margin-left:
+		}
+		.pl{
+			padding-left: 300px;
+		}
+		.p2{
+			padding-left: 20px;
+		}
+	
